@@ -1,2 +1,2 @@
 # Stock-Trading-System
-ASU, IT Capstone Project, Dec 2025
+ASU | Collaborative IT Capstone Project | Dec 2025
